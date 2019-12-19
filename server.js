@@ -57,7 +57,7 @@ app.use(function(req, res, next) {
 
 require("./app")(app);
 
-const port = process.env.PORT || 3004;
+const port = process.env.PORT || 5000;
 app.listen(port, function() {
     console.log('Currently running in ' + modeconfig.ENVMODE + ' Mode');
     console.log("OhMyTennis api listening on port " + port + "!");
