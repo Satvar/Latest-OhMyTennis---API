@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "a2c2cd_tennis",
-    "password": "teamwork@2018",
+    "username": "root",
+    "password": "$8m9bB~4Q",
     "database": "db_a2c2cd_tennis",
-    "host": "mysql7003.site4now.net",
+    "host": "localhost:3306",
     "dialect": "mysql"
   },
   "production": {

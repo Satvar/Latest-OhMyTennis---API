@@ -1,5 +1,5 @@
-const config = require('../config/config.json');
-const modeconfig = require('../config/env_mode.json')
+const config = require("../config/config.json");
+const modeconfig = require("../config/env_mode.json");
 const ENV_MODE = modeconfig.ENVMODE;
 const host = config[ENV_MODE]["host"];
 const user = config[ENV_MODE]["user"];
