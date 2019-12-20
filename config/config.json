@@ -3,7 +3,7 @@
     "username": "root",
     "password": "$8m9bB~4Q",
     "database": "db_a2c2cd_tennis",
-    "host": "localhost:3306",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
